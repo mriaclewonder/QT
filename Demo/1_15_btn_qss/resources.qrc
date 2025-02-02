@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/vip_no.png</file>
+        <file>resources/vip_yes.png</file>
+    </qresource>
+</RCC>

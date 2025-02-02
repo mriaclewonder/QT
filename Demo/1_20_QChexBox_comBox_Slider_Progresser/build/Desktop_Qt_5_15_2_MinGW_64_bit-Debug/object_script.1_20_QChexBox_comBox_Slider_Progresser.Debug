@@ -1,0 +1,10 @@
+debug/cmybutton.o
+debug/form.o
+debug/loadqss.o
+debug/main.o
+debug/widget.o
+debug/qrc_res.o
+debug/moc_cmybutton.o
+debug/moc_form.o
+debug/moc_loadqss.o
+debug/moc_widget.o

@@ -1,0 +1,12 @@
+debug/csearchbutton.o
+debug/cserachlineedit.o
+debug/main.o
+debug/tabbar.o
+debug/tabwidget.o
+debug/widget.o
+debug/qrc_resources.o
+debug/moc_csearchbutton.o
+debug/moc_cserachlineedit.o
+debug/moc_tabbar.o
+debug/moc_tabwidget.o
+debug/moc_widget.o

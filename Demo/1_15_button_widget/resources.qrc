@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/audio_open.svg</file>
+        <file>resources/audio_open_hover.svg</file>
+    </qresource>
+</RCC>

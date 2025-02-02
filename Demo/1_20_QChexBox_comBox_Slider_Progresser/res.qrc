@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/down.png</file>
+        <file>resources/set.png</file>
+        <file>resources/status_close.png</file>
+        <file>resources/status_open.png</file>
+        <file>resources/up.png</file>
+        <file>resources/skin.qss</file>
+        <file>resources/save.png</file>
+    </qresource>
+</RCC>

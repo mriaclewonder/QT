@@ -1,0 +1,10 @@
+release/cmybutton.o
+release/form.o
+release/loadqss.o
+release/main.o
+release/widget.o
+release/qrc_res.o
+release/moc_cmybutton.o
+release/moc_form.o
+release/moc_loadqss.o
+release/moc_widget.o

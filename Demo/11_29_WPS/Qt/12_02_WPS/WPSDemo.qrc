@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/WPSDemo">
+        <file>resources/add.png</file>
+        <file>resources/close.png</file>
+        <file>resources/max.png</file>
+        <file>resources/min.png</file>
+        <file>resources/save.png</file>
+        <file>resources/share.png</file>
+        <file>resources/user.png</file>
+    </qresource>
+</RCC>

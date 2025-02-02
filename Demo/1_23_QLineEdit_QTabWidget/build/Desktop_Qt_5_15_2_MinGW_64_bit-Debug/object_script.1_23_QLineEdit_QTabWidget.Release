@@ -1,0 +1,12 @@
+release/csearchbutton.o
+release/cserachlineedit.o
+release/main.o
+release/tabbar.o
+release/tabwidget.o
+release/widget.o
+release/qrc_resources.o
+release/moc_csearchbutton.o
+release/moc_cserachlineedit.o
+release/moc_tabbar.o
+release/moc_tabwidget.o
+release/moc_widget.o

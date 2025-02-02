@@ -1,0 +1,59 @@
+QWidget
+{
+    background-color: rgb(54,54,54);
+    border-top:2px;
+    border-bottom:2px;
+    border-left:2px;
+    border-right:2px;
+}
+ 
+QLineEdit 
+{
+    background-color: rgb(249,249,249); 
+    border: 1px solid black;
+    border-radius:5;
+    font:14px;
+}
+ 
+QLabel
+{
+    background-color: rgb(54,54,54); 
+    font:12px;
+    color:white;
+}
+ 
+QPushButton
+{
+    color:rgb(251,251,251);    
+    font:12px, "微软雅黑";
+    background-color:rgb(105,105,105);
+    border-radius:4px;
+	padding:2px; 
+}
+ 
+ 
+QPushButton:hover
+{
+    color:#0000ff;
+    background-color:rgb(210, 205, 205); /*改变背景色*/
+    border-style:inset;/*改变边框风格*/
+    padding-left:2px;
+    padding-top:2px;
+} 
+ 
+QPushButton:flat 
+{  
+    border:2px solid red;  
+} 
+ 
+QPushButton:pressed
+{
+    color:green;
+} 
+ 
+QPlainTextEdit
+{
+    background-color: rgb(169,169,169); 
+    font:14px;
+    color:white;
+}

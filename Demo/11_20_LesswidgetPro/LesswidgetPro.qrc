@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resources/titlebar/close.png</file>
+        <file>resources/titlebar/close_hover.png</file>
+        <file>resources/titlebar/max.png</file>
+        <file>resources/titlebar/max_hover.png</file>
+        <file>resources/titlebar/min.png</file>
+        <file>resources/titlebar/min_hover.png</file>
+        <file>resources/titlebar/normal.png</file>
+        <file>resources/titlebar/normal_hover.png</file>
+        <file>resources/titlebar/set.png</file>
+        <file>resources/titlebar/set_hover.png</file>
+        <file>resources/titlebar/title_icon.png</file>
+    </qresource>
+</RCC>
